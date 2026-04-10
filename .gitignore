@@ -8,7 +8,4 @@ stockfish/*
 
 # Compiled binaries
 /__pycache__/
-
-# Local Go Modules
-go.sum
-go.mod
+chess-train
