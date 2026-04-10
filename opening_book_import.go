@@ -43,6 +43,8 @@ func parseBookDefsFromText(text string) ([]LineDef, error) {
 	for scanner.Scan() {
 		lineNo++
 		line := strings.TrimSpace(scanner.Text())
+		// Drop Wikipedia/book citation suffixes early (e.g. "...[40]") and ignore citation-only lines.
+		line = strings.TrimSpace(reCite.ReplaceAllString(line, ""))
 		if line == "" {
 			continue
 		}

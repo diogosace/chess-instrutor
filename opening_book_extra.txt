@@ -18,325 +18,325 @@ Latvian Gambit – C40 – 1.e4 e5 2.Nf3 f5
 Elephant Gambit – C40 – 1.e4 e5 2.Nf3 d5
 
 Alekhine's Defense
-Alekhine Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.Nf3 Bg4 6.Be2 dxe5 7.Nxe5[1]
-John Tracy Gambit – B02 – 1.e4 Nf6 2.Nf3[2]
-Krejcik Gambit – B02 – 1.e4 Nf6 2.Bc4 Nxe4 3.Bxf7+[3]
-Buntin Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.e6[4]
-Geschev Gambit – B02 – 1.e4 Nf6 2.Nc3 d5 3.exd5 c6[5]
-O'Sullivan Gambit – B03 – 1.e4 Nf6 2.e5 Nd5 3.d4 b5[6]
-Myers Gambit – B02 – 1.e4 Nf6 2.Nc3 d5 3.d3 dxe4 4.Bg5[7]
-Spielmann Gambit – B02 – 1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.e6[8]
-Cambridge Gambit – B03 – 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g5[9]
-Lasker Simul Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 e6 6.Bc4[10]
-Matsukevich Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 Nxc3 6.dxc3 d6 7.Bg5[11]
-Mikėnas Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Bc4 e6 6.Nc3 d6 7.Nxd5 exd5 8.Bxd5[12]
+Alekhine Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.Nf3 Bg4 6.Be2 dxe5 7.Nxe5
+John Tracy Gambit – B02 – 1.e4 Nf6 2.Nf3
+Krejcik Gambit – B02 – 1.e4 Nf6 2.Bc4 Nxe4 3.Bxf7+
+Buntin Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.e6
+Geschev Gambit – B02 – 1.e4 Nf6 2.Nc3 d5 3.exd5 c6
+O'Sullivan Gambit – B03 – 1.e4 Nf6 2.e5 Nd5 3.d4 b5
+Myers Gambit – B02 – 1.e4 Nf6 2.Nc3 d5 3.d3 dxe4 4.Bg5
+Spielmann Gambit – B02 – 1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.e6
+Cambridge Gambit – B03 – 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g5
+Lasker Simul Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 e6 6.Bc4
+Matsukevich Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 Nxc3 6.dxc3 d6 7.Bg5
+Mikėnas Gambit – B02 – 1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Bc4 e6 6.Nc3 d6 7.Nxd5 exd5 8.Bxd5
 
 Bird's Opening
-From's Gambit – A02 – 1.f4 e5[1]
-Swiss Gambit – A02 – 1.f4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4[1]
-Williams Gambit – A03 – 1.f4 d5 2.e4[1]
-Hobbs Gambit – A02 – 1.f4 g5[13]
-Bahr Gambit – A02 – 1.f4 e5 2.Nc3[14]
-Sturm Gambit – A02 – 1.f4 d5 2.c4[15]
-Wagner-Zwitersch Gambit – A02 – 1.f4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4[16]
-Lasker Gambit – A02 – 1.f4 e5 2.fxe5 f6[17]
-Platz Gambit – A02 – 1.f4 e5 2.fxe5 Ne7[18]
-Schlechter Gambit – A02 – 1.f4 e5 2.fxe5 Nc6[19]
-Batavo Gambit – A02 – 1.f4 d5 2.Nf3 c5 3.e4 dxe4[20]
-Langheld Gambit – A02 – 1.f4 e5 2.fxe5 d6 3.exd6 Nf6[21]
-Siegener Gambit – A02 – 1.f4 e5 2.d4 exd4 3.Nf3 c5 4.c3[22]
-Thomas Gambit – A02 – 1.f4 d5 2.b3 Nf6 3.Bb2 d4 4.Nf3 c5 5.e3[23]
-Prokofiev Gambit – A03 – 1.f4 d5 2.e4 dxe4 3.d3[24]
+From's Gambit – A02 – 1.f4 e5
+Swiss Gambit – A02 – 1.f4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4
+Williams Gambit – A03 – 1.f4 d5 2.e4
+Hobbs Gambit – A02 – 1.f4 g5
+Bahr Gambit – A02 – 1.f4 e5 2.Nc3
+Sturm Gambit – A02 – 1.f4 d5 2.c4
+Wagner-Zwitersch Gambit – A02 – 1.f4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4
+Lasker Gambit – A02 – 1.f4 e5 2.fxe5 f6
+Platz Gambit – A02 – 1.f4 e5 2.fxe5 Ne7
+Schlechter Gambit – A02 – 1.f4 e5 2.fxe5 Nc6
+Batavo Gambit – A02 – 1.f4 d5 2.Nf3 c5 3.e4 dxe4
+Langheld Gambit – A02 – 1.f4 e5 2.fxe5 d6 3.exd6 Nf6
+Siegener Gambit – A02 – 1.f4 e5 2.d4 exd4 3.Nf3 c5 4.c3
+Thomas Gambit – A02 – 1.f4 d5 2.b3 Nf6 3.Bb2 d4 4.Nf3 c5 5.e3
+Prokofiev Gambit – A03 – 1.f4 d5 2.e4 dxe4 3.d3
 
 Bishop's Opening
-Calabrian Countergambit – C23 – 1.e4 e5 2.Bc4 f5[1]
-Boden–Kieseritzky Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3[1]
-Greco Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.f4[1]
-Ponziani Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.d4[1]
-Urusov Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3[1]
-Khan Gambit – C23 – 1.e4 e5 2.Bc4 d5[25]
-Keidansky Gambit – C23 – 1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nxe4 5.Qxd4[26]
-Lewis Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.d4[27]
-Stein Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.f4[28]
-Anderssen Gambit – C23 – 1.e4 e5 2.Bc4 b5 3.Bxb5 c6[29]
-Thorold Gambit – C23 – 1.e4 e5 2.Bc4 b5 3.Bxb5 f5[30]
-Wing Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4[1]
-Four Pawns Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 exf4 5.Nf3 Be7 6.d4 Bh4+ 7.g3 fxg3 8.0-0 gxh2+ 9.Kh1[1]
-Lewis Countergambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.c3 d5[1]
-McDonnell Double Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4[1]
-La Bourdonnais-Denker Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.c3[31]
-Lopez Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.Qe2 Nf6 4.f4[32]
+Calabrian Countergambit – C23 – 1.e4 e5 2.Bc4 f5
+Boden–Kieseritzky Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3
+Greco Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.f4
+Ponziani Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.d4
+Urusov Gambit – C24 – 1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3
+Khan Gambit – C23 – 1.e4 e5 2.Bc4 d5
+Keidansky Gambit – C23 – 1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nxe4 5.Qxd4
+Lewis Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.d4
+Stein Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.f4
+Anderssen Gambit – C23 – 1.e4 e5 2.Bc4 b5 3.Bxb5 c6
+Thorold Gambit – C23 – 1.e4 e5 2.Bc4 b5 3.Bxb5 f5
+Wing Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4
+Four Pawns Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 exf4 5.Nf3 Be7 6.d4 Bh4+ 7.g3 fxg3 8.0-0 gxh2+ 9.Kh1
+Lewis Countergambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.c3 d5
+McDonnell Double Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4
+La Bourdonnais-Denker Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.c3
+Lopez Gambit – C23 – 1.e4 e5 2.Bc4 Bc5 3.Qe2 Nf6 4.f4
 
 Blackmar–Diemer Gambit
-Blackmar Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.f3[1]
-Blackmar–Diemer Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 – also 1.d4 d5 2.Nc3 Nf6 3.e4 dxe4 4.f3[1]
-Lemberger Countergambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 e5[33]
-Rasa-Studier Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.Be3[34]
-Von Popiel Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.Bg5[35]
-Brombacher Countergambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c5[36]
-Elbert Countergambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e5[37]
-Ryder Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3[38]
-Pfrang Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e6 5.fxe4[39]
-Duthilleul Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 e6 6.Bd3[40]
-Tejler Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3 Qxd4 6.Be3 Qg4[41]
+Blackmar Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.f3
+Blackmar–Diemer Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 – also 1.d4 d5 2.Nc3 Nf6 3.e4 dxe4 4.f3
+Lemberger Countergambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 e5
+Rasa-Studier Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.Be3
+Von Popiel Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.Bg5
+Brombacher Countergambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 c5
+Elbert Countergambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e5
+Ryder Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3
+Pfrang Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 e6 5.fxe4
+Duthilleul Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 e6 6.Bd3
+Tejler Gambit – D00 – 1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3 Qxd4 6.Be3 Qg4
 
 Caro–Kann Defense
-Mieses Gambit – B12 – 1.e4 c6 2.d4 d5 3.Be3[42]
-Alien Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.Nxf7[43]
-Martian Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng5 Bg6 6.N1f3 h6 7.Ne6[44]
-Hector Gambit – B12 – 1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Ng5[45]
-Schaeffer Gambit – B10 – 1.e4 c6 2.Bc4 d5 3.Bb3 dxe4 4.Qh5[46]
-Ulysses Gambit – B12 – 1.e4 c6 2.d4 d5 3.Nf3 dxe4 4.Ng5[47]
-Von Hennig Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Bc4[48]
-Alekhine Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3[49]
-Maróczy Gambit – B12 – 1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Bc4[50]
-Fianchetto Gambit – B13 – 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.cxd5 Bg7[51]
-Rasa-Studier Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3[52]
+Mieses Gambit – B12 – 1.e4 c6 2.d4 d5 3.Be3
+Alien Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng5 h6 6.Nxf7
+Martian Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng5 Bg6 6.N1f3 h6 7.Ne6
+Hector Gambit – B12 – 1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Ng5
+Schaeffer Gambit – B10 – 1.e4 c6 2.Bc4 d5 3.Bb3 dxe4 4.Qh5
+Ulysses Gambit – B12 – 1.e4 c6 2.d4 d5 3.Nf3 dxe4 4.Ng5
+Von Hennig Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Bc4
+Alekhine Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3
+Maróczy Gambit – B12 – 1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Bc4
+Fianchetto Gambit – B13 – 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.cxd5 Bg7
+Rasa-Studier Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3
 
 Center Game
-Danish Gambit – C21 – 1.e4 e5 2.d4 exd4 3.c3[53]
+Danish Gambit – C21 – 1.e4 e5 2.d4 exd4 3.c3
 
 English Opening
-Jaenisch Gambit – A10 – 1.c4 b5[54]
-Achilles-Omega Gambit – A10 – 1.c4 Nf6 2.e4[55]
-Hickmann Gambit – A10 – 1.c4 f5 2.e4[56]
-Wade Gambit – A10 – 1.c4 f5 2.g4[57]
-Wing Gambit – A30 – 1.c4 c5 2.b4[58]
-Loehn Gambit – A10 – 1.c4 d5 2.cxd5 e6[59]
-Schulz Gambit – A10 – 1.c4 d5 2.cxd5 Nf6[60]
-Chabanon Gambit – A10 – 1.c4 f5 2.Nf3 d6 3.e4[61]
-Ferenc Gambit – A10 – 1.c4 f5 2.Nc3 Nf6 3.e4[62]
-Napolitano Gambit – A30 – 1.c4 c5 2.Nf3 Nf6 3.b4[63]
-Kahiko-Hula Gambit – A20 – 1.c4 e5 2.e3 Nf6 3.f4 exf4 4.Nf3[64]
-Nei Gambit – A19 – 1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8[65]
-Romanishin Gambit – A13 – 1.c4 Nf6 2.Nf3 e6 3.g3 a6 4.Bg2 b5[66]
-Bellón Gambit – A22 – 1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 b5[67]
+Jaenisch Gambit – A10 – 1.c4 b5
+Achilles-Omega Gambit – A10 – 1.c4 Nf6 2.e4
+Hickmann Gambit – A10 – 1.c4 f5 2.e4
+Wade Gambit – A10 – 1.c4 f5 2.g4
+Wing Gambit – A30 – 1.c4 c5 2.b4
+Loehn Gambit – A10 – 1.c4 d5 2.cxd5 e6
+Schulz Gambit – A10 – 1.c4 d5 2.cxd5 Nf6
+Chabanon Gambit – A10 – 1.c4 f5 2.Nf3 d6 3.e4
+Ferenc Gambit – A10 – 1.c4 f5 2.Nc3 Nf6 3.e4
+Napolitano Gambit – A30 – 1.c4 c5 2.Nf3 Nf6 3.b4
+Kahiko-Hula Gambit – A20 – 1.c4 e5 2.e3 Nf6 3.f4 exf4 4.Nf3
+Nei Gambit – A19 – 1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8
+Romanishin Gambit – A13 – 1.c4 Nf6 2.Nf3 e6 3.g3 a6 4.Bg2 b5
+Bellón Gambit – A22 – 1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 b5
 
 French Defense
-Bäuerle Gambit – C01 – 1.e4 e6 2.d4 b5[68]
-Alapin Gambit – C00 – 1.e4 e6 2.d4 d5 3.Be3[69]
-Papa-Ticulat Gambit – C00 – 1.e4 e6 2.b3 d5 3.Bb2[70]
-Perseus Gambit – C01 – 1.e4 e6 2.d4 d5 3.Nf3[71]
-Diemer-Duhm Gambit – C00 – 1.e4 e6 2.d4 d5 3.c4[72]
-Frenkel Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.b4[73]
-Orthoschnapp Gambit – C00 – 1.e4 e6 2.c4 d5 3.cxd5 exd5 4.Qb3[74]
-Alekhine–Maróczy Gambit – C15 – 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2[75]
-Winckelmann-Riemer Gambit – C15 – 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3[76]
-Wing Gambit – C00 – 1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4[77]
-Ellis Gambit – C10 – 1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 e5[78]
-Shaposhnikov Gambit – C07 – 1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Nf6[79]
-Nimzowitsch Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.Qg4[80]
-Ruisdonk Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Bd3[81]
-Wolf Gambit – C12 – 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.Ne2[82]
-Kunin Double Gambit – C15 – 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2 dxe4 5.Qg4 Qxd4[83]
-Milner-Barry Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3[84]
-Albin–Chatard Gambit – C13 – 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 Bxg5 7.hxg5 Qxg5[85]
+Bäuerle Gambit – C01 – 1.e4 e6 2.d4 b5
+Alapin Gambit – C00 – 1.e4 e6 2.d4 d5 3.Be3
+Papa-Ticulat Gambit – C00 – 1.e4 e6 2.b3 d5 3.Bb2
+Perseus Gambit – C01 – 1.e4 e6 2.d4 d5 3.Nf3
+Diemer-Duhm Gambit – C00 – 1.e4 e6 2.d4 d5 3.c4
+Frenkel Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.b4
+Orthoschnapp Gambit – C00 – 1.e4 e6 2.c4 d5 3.cxd5 exd5 4.Qb3
+Alekhine–Maróczy Gambit – C15 – 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2
+Winckelmann-Riemer Gambit – C15 – 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3
+Wing Gambit – C00 – 1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4
+Ellis Gambit – C10 – 1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 e5
+Shaposhnikov Gambit – C07 – 1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Nf6
+Nimzowitsch Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.Qg4
+Ruisdonk Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Bd3
+Wolf Gambit – C12 – 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.Ne2
+Kunin Double Gambit – C15 – 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2 dxe4 5.Qg4 Qxd4
+Milner-Barry Gambit – C02 – 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3
+Albin–Chatard Gambit – C13 – 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 Bxg5 7.hxg5 Qxg5
 
 Indian Defense
-Benko Gambit (Volga Gambit) – A57 – 1.d4 Nf6 2.c4 c5 3.d5 b5[1]
-Hjoerring Countergambit – A57 – 1.d4 Nf6 2.c4 c5 3.d5 b5 4.e4[86]
-Mutkin Countergambit – A57 – 1.d4 Nf6 2.c4 c5 3.d5 b5 4.g4[87]
-Blumenfeld Countergambit – E10 – 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5[1]
-Devin Gambit – A50 – 1.d4 Nf6 2.c4 e6 3.g4[88]
-Omega Gambit – A45 – 1.d4 Nf6 2.e4[89]
-Budapest Gambit – A51 – 1.d4 Nf6 2.c4 e5[90]
-Lazard Gambit – A45 – 1.d4 Nf6 2.Nd2 e5[91]
-Maddigan Gambit – A45 – 1.d4 Nf6 2.Nc3 e5[92]
-Medusa Gambit – A50 – 1.d4 Nf6 2.c4 g5[93]
-Pyrenees Gambit – A50 – 1.d4 Nf6 2.c4 b5[94]
-Adorjan Gambit – A60 – 1.d4 Nf6 2.c4 g6 3.d5 b5[95]
-Leko Gambit – A70 – 1.d4 Nf6 2.c4 g6 3.f3 e5[96]
-Schnepper Gambit – A47 – 1.d4 Nf6 2.Nf3 b6 3.c3 e5[97]
-Arafat Gambit – A45 – 1.d4 Nf6 2.e4 Nxe4 3.Bd3 Nf6 4.Bg5[98]
-Stummer Gambit – A45 – 1.d4 Nf6 2.g4 Nxg4 3.e4 d6 4.Be2 Nf6 5.Nc3[99]
+Benko Gambit (Volga Gambit) – A57 – 1.d4 Nf6 2.c4 c5 3.d5 b5
+Hjoerring Countergambit – A57 – 1.d4 Nf6 2.c4 c5 3.d5 b5 4.e4
+Mutkin Countergambit – A57 – 1.d4 Nf6 2.c4 c5 3.d5 b5 4.g4
+Blumenfeld Countergambit – E10 – 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5
+Devin Gambit – A50 – 1.d4 Nf6 2.c4 e6 3.g4
+Omega Gambit – A45 – 1.d4 Nf6 2.e4
+Budapest Gambit – A51 – 1.d4 Nf6 2.c4 e5
+Lazard Gambit – A45 – 1.d4 Nf6 2.Nd2 e5
+Maddigan Gambit – A45 – 1.d4 Nf6 2.Nc3 e5
+Medusa Gambit – A50 – 1.d4 Nf6 2.c4 g5
+Pyrenees Gambit – A50 – 1.d4 Nf6 2.c4 b5
+Adorjan Gambit – A60 – 1.d4 Nf6 2.c4 g6 3.d5 b5
+Leko Gambit – A70 – 1.d4 Nf6 2.c4 g6 3.f3 e5
+Schnepper Gambit – A47 – 1.d4 Nf6 2.Nf3 b6 3.c3 e5
+Arafat Gambit – A45 – 1.d4 Nf6 2.e4 Nxe4 3.Bd3 Nf6 4.Bg5
+Stummer Gambit – A45 – 1.d4 Nf6 2.g4 Nxg4 3.e4 d6 4.Be2 Nf6 5.Nc3
 
 Italian Game
-Lucchini Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 f5[100]
-Nakhmanson Gambit – C56 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.0-0 Nxe4 6.Nc3[101]
-Evans Gambit – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4[102]
-Fried Liver Attack – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7[103]
-Rousseau Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 f5[104]
-Blackburne Shilling Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4[105]
-Jerome Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7+[106]
-Italian Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d4[107]
-Neumann Gambit – C55 – 1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.Bc4[108]
-Alexandre Gambit – C55 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 f5[109]
-Hein Countergambit – C51 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 d5[110]
-Ponziani-Steinitz Gambit – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Nxe4[111]
-Traxler Counterattack – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5[112]
-Albin Gambit – C53 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.0-0[113]
-Deutz Gambit – C55 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.0-0 Nf6 5.d4[114]
-Kloss Gambit – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nb4[115]
-Walbrodt-Baird Gambit – C54 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.0-0[116]
-Leonhardt Countergambit – C52 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 b5[117]
+Lucchini Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 f5
+Nakhmanson Gambit – C56 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.0-0 Nxe4 6.Nc3
+Evans Gambit – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4
+Fried Liver Attack – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7
+Rousseau Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 f5
+Blackburne Shilling Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4
+Jerome Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7+
+Italian Gambit – C50 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d4
+Neumann Gambit – C55 – 1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.Bc4
+Alexandre Gambit – C55 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 f5
+Hein Countergambit – C51 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 d5
+Ponziani-Steinitz Gambit – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Nxe4
+Traxler Counterattack – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5
+Albin Gambit – C53 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.0-0
+Deutz Gambit – C55 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.0-0 Nf6 5.d4
+Kloss Gambit – C57 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nb4
+Walbrodt-Baird Gambit – C54 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.0-0
+Leonhardt Countergambit – C52 – 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 b5
 
 King's Gambit
-Falkbeer Countergambit – C31 – 1.e4 e5 2.f4 d5[118]
-Panteldakis Countergambit – C30 – 1.e4 e5 2.f4 f5[119]
-Basman Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Qe2[120]
-Bishop's Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4[121]
-Breyer Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Qf3[122]
-Gama Gambit – C33 – 1.e4 e5 2.f4 exf4 3.g3[123]
-King's Knight Gambit – C34 – 1.e4 e5 2.f4 exf4 3.Nf3[124]
-Mason-Keres Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Nc3[125]
-Orsini Gambit – C33 – 1.e4 e5 2.f4 exf4 3.b3[126]
-Paris Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Ne2[127]
-Villemson Gambit – C33 – 1.e4 e5 2.f4 exf4 3.d4[128]
-Schurig Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bb5[129]
-Stamma Gambit – C33 – 1.e4 e5 2.f4 exf4 3.h4[130]
-Tartakower Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Be2[131]
-Hinrichsen Gambit – C31 – 1.e4 e5 2.f4 d5 3.d4[132]
-Gianutio Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 f5[133]
-Bishop Gambit, Kieseritzky Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 b5[134]
-Gianutio Countergambit – C34 – 1.e4 e5 2.f4 exf4 3.Nf3 f5[135]
-Miles Gambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 Bc5[136]
-Nimzowitsch–Marshall Countergambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 c6[137]
-Quaade Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3[138]
-Rosentreter Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4[139]
-Rotlewi Countergambit – C30 – 1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.b4[140]
-Charousek Gambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 e4 4.d3[141]
-Bledow Countergambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Nf6[142]
-Bryan Countergambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 b5[143]
-Blachly Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Nc6[144]
-Pickler Gambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 c6 4.dxc6 Bc5[145]
-Allgaier Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5[146]
-Hanstein Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.0-0[147]
-Lolli Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7+[148]
-McDonnell Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3[149]
-Muzio Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0[150]
-Philidor Gambit – C38 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4[151]
-Sørensen Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Nc3 Sørensen Gambit[152]
-Salvio Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5[153]
-Bertin Gambit – C35 – 1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.g3[154]
-Ghulam Kassim Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.d4[155]
-Kieseritzky Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5[156]
-Greco Gambit – C38 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.d4 d6[157]
-Rice Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.0-0[158]
-Silberschmidt Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4+ 6.Kf1 Nh6 7.d4 f3[159]
-Blackburne Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Nc3[160]
-Bello Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0 gxf3 6.Qxf3 Qf6 7.Nc3[161]
-Cochrane Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4+ 6.Kf1 f3[162]
-Bird Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Ne5 Qh4+ 6.g3[163]
-Mayet Gambit – C38 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.d4 d6 6.c3[164]
-Cotter Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h6 6.Nxf7[165]
+Falkbeer Countergambit – C31 – 1.e4 e5 2.f4 d5
+Panteldakis Countergambit – C30 – 1.e4 e5 2.f4 f5
+Basman Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Qe2
+Bishop's Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4
+Breyer Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Qf3
+Gama Gambit – C33 – 1.e4 e5 2.f4 exf4 3.g3
+King's Knight Gambit – C34 – 1.e4 e5 2.f4 exf4 3.Nf3
+Mason-Keres Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Nc3
+Orsini Gambit – C33 – 1.e4 e5 2.f4 exf4 3.b3
+Paris Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Ne2
+Villemson Gambit – C33 – 1.e4 e5 2.f4 exf4 3.d4
+Schurig Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bb5
+Stamma Gambit – C33 – 1.e4 e5 2.f4 exf4 3.h4
+Tartakower Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Be2
+Hinrichsen Gambit – C31 – 1.e4 e5 2.f4 d5 3.d4
+Gianutio Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 f5
+Bishop Gambit, Kieseritzky Gambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 b5
+Gianutio Countergambit – C34 – 1.e4 e5 2.f4 exf4 3.Nf3 f5
+Miles Gambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 Bc5
+Nimzowitsch–Marshall Countergambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 c6
+Quaade Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3
+Rosentreter Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4
+Rotlewi Countergambit – C30 – 1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.b4
+Charousek Gambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 e4 4.d3
+Bledow Countergambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Nf6
+Bryan Countergambit – C33 – 1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 b5
+Blachly Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Nc6
+Pickler Gambit – C31 – 1.e4 e5 2.f4 d5 3.exd5 c6 4.dxc6 Bc5
+Allgaier Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5
+Hanstein Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.0-0
+Lolli Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7+
+McDonnell Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3
+Muzio Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0
+Philidor Gambit – C38 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4
+Sørensen Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Nc3 Sørensen Gambit
+Salvio Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5
+Bertin Gambit – C35 – 1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.g3
+Ghulam Kassim Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.d4
+Kieseritzky Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5
+Greco Gambit – C38 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.d4 d6
+Rice Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.0-0
+Silberschmidt Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4+ 6.Kf1 Nh6 7.d4 f3
+Blackburne Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Nc3
+Bello Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0 gxf3 6.Qxf3 Qf6 7.Nc3
+Cochrane Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4+ 6.Kf1 f3
+Bird Gambit – C37 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Ne5 Qh4+ 6.g3
+Mayet Gambit – C38 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.d4 d6 6.c3
+Cotter Gambit – C39 – 1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h6 6.Nxf7
 
 Philidor Defense
-Lopez Countergambit – C41 – 1.e4 e5 2.Nf3 d6 3.Bc4 f5[166]
-Philidor Countergambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 f5[167]
-Bird Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 exd4 4.c3[168]
-Morphy Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Bc4[169]
-Alapin-Blackburne Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Nd7[170]
-Shirov Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Nc3 Ngf6 5.g4[171]
+Lopez Countergambit – C41 – 1.e4 e5 2.Nf3 d6 3.Bc4 f5
+Philidor Countergambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 f5
+Bird Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 exd4 4.c3
+Morphy Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Bc4
+Alapin-Blackburne Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Nd7
+Shirov Gambit – C41 – 1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Nc3 Ngf6 5.g4
 
 Queen's Gambit
-Albin Countergambit – D08 – 1.d4 d5 2.c4 e5[1]
-Diemer Gambit – D10 – 1.d4 d5 2.c4 c6 3.e4[172]
-Slav Gambit – D21 – 1.d4 d5 2.c4 dxc4 3.Nf3 b5[173]
-Salvio Countergambit – D06 – 1.d4 d5 2.c4 c5 3.dxc5 d4[174]
-Lazard Gambit – D07 – 1.d4 d5 2.c4 Nc6 3.Nf3 e5[175]
-Tartakower Gambit – D07 – 1.d4 d5 2.c4 Nc6 3.Nc3 e5[176]
-Tan Gambit – D07 – 1.d4 d5 2.c4 Nf6 3.cxd5 c6[177]
-Winawer Countergambit – D10 – 1.d4 d5 2.c4 c6 3.Nc3 e5[178]
-Somov Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e4 e5 4.Bxc4[179]
-Semi-Slav Marshall Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4[180]
-Bonet Gambit – D11 – 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Bg5[181]
-Schara Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4[182]
-Miladinović Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 Be7 4.e4 dxe4 5.f3[183]
-Portisch Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 f5 5.g4[184]
-Geller Gambit – D15 – 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4[185]
-Tarrasch Defense Marshall Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.e4[186]
-Argentinian Gambit – D06 – 1.d4 d5 2.c4 Bf5 3.cxd5 Bxb1 4.Qa4+ c6 5.dxc6 Nxc6[187]
-Billinger Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.a3[188]
-Christensen Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.Nf3[189]
-Korchnoi Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.Kf1[190]
-Novikov Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.Nd2[191]
-Alekhine Gambit – D37 – 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 h6 6.Bh4 dxc4[192]
-Tarrasch Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 d4 6.Na4 b5[193]
-Fazekas Gambit – D17 – 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Na6 7.e4[194]
-Grünfeld Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.dxc5 d4 7.Na4 b5[195]
-Von Hennig Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4 5.Qxd4 Nc6 6.Qd1 exd5 7.Qxd5 Be6[196]
-Classical Tarrasch Gambit – D34 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.0-0 0-0 9.dxc5 d4[197]
-Mar Del Plata Gambit – D57 – 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 0-0 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 Nxc3 10.bxc3 exd5 11.Qb3 Rd8 12.c4 Be6[198]
-Kaidanov Gambit – D47 – 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7 9.e4 b4 10.Na4 c5 11.e5 Nd5 12.0-0 cxd4 13.Nxd4[199]
+Albin Countergambit – D08 – 1.d4 d5 2.c4 e5
+Diemer Gambit – D10 – 1.d4 d5 2.c4 c6 3.e4
+Slav Gambit – D21 – 1.d4 d5 2.c4 dxc4 3.Nf3 b5
+Salvio Countergambit – D06 – 1.d4 d5 2.c4 c5 3.dxc5 d4
+Lazard Gambit – D07 – 1.d4 d5 2.c4 Nc6 3.Nf3 e5
+Tartakower Gambit – D07 – 1.d4 d5 2.c4 Nc6 3.Nc3 e5
+Tan Gambit – D07 – 1.d4 d5 2.c4 Nf6 3.cxd5 c6
+Winawer Countergambit – D10 – 1.d4 d5 2.c4 c6 3.Nc3 e5
+Somov Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e4 e5 4.Bxc4
+Semi-Slav Marshall Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4
+Bonet Gambit – D11 – 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Bg5
+Schara Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4
+Miladinović Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 Be7 4.e4 dxe4 5.f3
+Portisch Gambit – D31 – 1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 f5 5.g4
+Geller Gambit – D15 – 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4
+Tarrasch Defense Marshall Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.e4
+Argentinian Gambit – D06 – 1.d4 d5 2.c4 Bf5 3.cxd5 Bxb1 4.Qa4+ c6 5.dxc6 Nxc6
+Billinger Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.a3
+Christensen Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.Nf3
+Korchnoi Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.Kf1
+Novikov Gambit – D20 – 1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.Qb3 Qe7 6.Nd2
+Alekhine Gambit – D37 – 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 h6 6.Bh4 dxc4
+Tarrasch Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 d4 6.Na4 b5
+Fazekas Gambit – D17 – 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Na6 7.e4
+Grünfeld Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.dxc5 d4 7.Na4 b5
+Von Hennig Gambit – D32 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4 5.Qxd4 Nc6 6.Qd1 exd5 7.Qxd5 Be6
+Classical Tarrasch Gambit – D34 – 1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.0-0 0-0 9.dxc5 d4
+Mar Del Plata Gambit – D57 – 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 0-0 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 Nxc3 10.bxc3 exd5 11.Qb3 Rd8 12.c4 Be6
+Kaidanov Gambit – D47 – 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7 9.e4 b4 10.Na4 c5 11.e5 Nd5 12.0-0 cxd4 13.Nxd4
 
 Réti Opening
-Réti Gambit – A09 – 1.Nf3 d5 2.c4[200]
-Herrstrom Gambit – A04 – 1.Nf3 g5[201]
-Ross Gambit – A04 – 1.Nf3 e5[202]
-John Tracy Gambit – A04 – 1.e4 Nf6 2.Nf3[2]
-Lisitsyn Gambit – A04 – 1.Nf3 f5 2.e4[203]
-Tennison Gambit – A06 – 1.Nf3 d5 2.e4 OR 1.e4 d5 2.Nf3[204]
-Vos Gambit – A04 – 1.d4 d6 2.Nf3 e5[205]
-Deferred Lisitsyn Gambit – A04 – 1.Nf3 f5 2.d3 Nf6 3.e4[206]
-Speelsmet Gambit – A04 – 1.Nf3 c5 2.d4 cxd4 3.e3[207]
-Pachman Gambit – A04 – 1.Nf3 d5 2.b3 c5 3.c4 dxc4 4.e3[208]
-Regina-Nu Gambit – A04 – 1.Nf3 d5 2.b3 c5 3.c4 dxc4 4.Nc3[209]
-Shabalov Gambit – A04 – 1.c4 e6 2.Nf3 a6 3.Nc3 c5 4.g3 b5[210]
+Réti Gambit – A09 – 1.Nf3 d5 2.c4
+Herrstrom Gambit – A04 – 1.Nf3 g5
+Ross Gambit – A04 – 1.Nf3 e5
+John Tracy Gambit – A04 – 1.e4 Nf6 2.Nf3
+Lisitsyn Gambit – A04 – 1.Nf3 f5 2.e4
+Tennison Gambit – A06 – 1.Nf3 d5 2.e4 OR 1.e4 d5 2.Nf3
+Vos Gambit – A04 – 1.d4 d6 2.Nf3 e5
+Deferred Lisitsyn Gambit – A04 – 1.Nf3 f5 2.d3 Nf6 3.e4
+Speelsmet Gambit – A04 – 1.Nf3 c5 2.d4 cxd4 3.e3
+Pachman Gambit – A04 – 1.Nf3 d5 2.b3 c5 3.c4 dxc4 4.e3
+Regina-Nu Gambit – A04 – 1.Nf3 d5 2.b3 c5 3.c4 dxc4 4.Nc3
+Shabalov Gambit – A04 – 1.c4 e6 2.Nf3 a6 3.Nc3 c5 4.g3 b5
 
 Ruy Lopez
-Brentano Gambit – C60 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 g5[211]
-Rotary-Albany Gambit – C60 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 b6[212]
-Jaenisch Gambit – C63 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 f5[213]
-Spanish Countergambit – C60 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 d5[214]
-Spanish Wing Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.b4[215]
-Cordel Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5[216]
-Konikowski Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 d5[217]
-Zukertort Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.0-0 Nf6 5.c3[218]
-Deferred Jaenisch Gambit – C70 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 f5 5.exf5[219]
-Nightingale Gambit – C70 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5 6.Bxf7+[220]
-Morphy Defense, Alapin Gambit – C69 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.0-0 Bg4 6.h3 h5[221]
-Harksen Gambit – C80 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Nxe4 6.d4 b5 7.Bb3 d5 8.c4[222]
-Basque Gambit – C84 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Be7 6.d4 exd4 7.e5 Ne4 8.c3[223]
-Tartakower Gambit – C89 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.d4 exd4 5.Nxd4 g6 6.Nc3 Bg7 7.Be3 0-0 8.Qd2 d5[224]
-Karpov Gambit – C80 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.Nbd2 Nc5 10.c3 d4 11.Ng5[225]
+Brentano Gambit – C60 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 g5
+Rotary-Albany Gambit – C60 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 b6
+Jaenisch Gambit – C63 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 f5
+Spanish Countergambit – C60 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 d5
+Spanish Wing Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.b4
+Cordel Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5
+Konikowski Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 d5
+Zukertort Gambit – C64 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.0-0 Nf6 5.c3
+Deferred Jaenisch Gambit – C70 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 f5 5.exf5
+Nightingale Gambit – C70 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5 6.Bxf7+
+Morphy Defense, Alapin Gambit – C69 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.0-0 Bg4 6.h3 h5
+Harksen Gambit – C80 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Nxe4 6.d4 b5 7.Bb3 d5 8.c4
+Basque Gambit – C84 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Be7 6.d4 exd4 7.e5 Ne4 8.c3
+Tartakower Gambit – C89 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.d4 exd4 5.Nxd4 g6 6.Nc3 Bg7 7.Be3 0-0 8.Qd2 d5
+Karpov Gambit – C80 – 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.Nbd2 Nc5 10.c3 d4 11.Ng5
 
 Scotch Game
-Göring Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3[226]
-Scotch Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4[227]
-Relfsson Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bb5[228]
-Alekhine Gambit – C45 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.e5[229]
-Napoleon Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxd4 exd4 5.Bc4[230]
+Göring Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3
+Scotch Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4
+Relfsson Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bb5
+Alekhine Gambit – C45 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.e5
+Napoleon Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxd4 exd4 5.Bc4
 
 Sicilian Defense
-Wing Gambit – B20 – 1.e4 c5 2.b4[231]
-Brussels Gambit – B27 – 1.e4 c5 2.Nf3 f5[232]
-Halász Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.f4[233]
-Morphy Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.Nf3[234]
-O'Kelly, Wing Gambit – B28 – 1.e4 c5 2.Nf3 a6 3.b4[235]
-Smith-Morra Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.c3[236]
-Deferred Wing Gambit (e6) – B40 – 1.e4 c5 2.Nf3 e6 3.b4[237]
-Deferred Wing Gambit (d6) – B50 – 1.e4 c5 2.Nf3 d6 3.b4[238]
-Double-Dutch Gambit – B28 – 1.e4 c5 2.Nf3 f5 3.exf5 Nh6[239]
-Tal Gambit – B23 – 1.e4 c5 2.f4 d5 3.exd5 Nf6[240]
-Andreaschek Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.Nf3 e5 4.c3[241]
-San Francisco Gambit – B31 – 1.e4 c5 2.Nf3 Nc6 3.Bb5 Na5 4.b4[242]
-Deferred Smith-Morra Gambit – B40 – 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.c3[243]
-Coles Sicilian Gambit – B21 – 1.e4 c5 2.Nf3 a6 3.d4 cxd4 4.Bc4[244]
-Dorfman Gambit – B52 – 1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.0-0 Bd7 5.Qe2 g6 6.e5[245]
-Dekker Gambit – B90 – 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g4[246]
-Lutikov Gambit – B31 – 1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.0-0 Bg7 5.c3 Nf6 6.d4[247]
-Gufeld Gambit – B31 – 1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.0-0 Bg7 5.c3 e5 6.d4[248]
-Haag Gambit – B51 – 1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.0-0 Nc6 6.c3 Nf6 7.d4[249]
-Nanu Gambit – B20 – 1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Qxd5 5.Nf3 e5 6.c4 Qe6 7.Bd3[250]
-Ponomariov Gambit – B48 – 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Ndb5 Qb8 7.Be3 a6 8.Bb6[251]
+Wing Gambit – B20 – 1.e4 c5 2.b4
+Brussels Gambit – B27 – 1.e4 c5 2.Nf3 f5
+Halász Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.f4
+Morphy Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.Nf3
+O'Kelly, Wing Gambit – B28 – 1.e4 c5 2.Nf3 a6 3.b4
+Smith-Morra Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.c3
+Deferred Wing Gambit (e6) – B40 – 1.e4 c5 2.Nf3 e6 3.b4
+Deferred Wing Gambit (d6) – B50 – 1.e4 c5 2.Nf3 d6 3.b4
+Double-Dutch Gambit – B28 – 1.e4 c5 2.Nf3 f5 3.exf5 Nh6
+Tal Gambit – B23 – 1.e4 c5 2.f4 d5 3.exd5 Nf6
+Andreaschek Gambit – B21 – 1.e4 c5 2.d4 cxd4 3.Nf3 e5 4.c3
+San Francisco Gambit – B31 – 1.e4 c5 2.Nf3 Nc6 3.Bb5 Na5 4.b4
+Deferred Smith-Morra Gambit – B40 – 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.c3
+Coles Sicilian Gambit – B21 – 1.e4 c5 2.Nf3 a6 3.d4 cxd4 4.Bc4
+Dorfman Gambit – B52 – 1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.0-0 Bd7 5.Qe2 g6 6.e5
+Dekker Gambit – B90 – 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g4
+Lutikov Gambit – B31 – 1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.0-0 Bg7 5.c3 Nf6 6.d4
+Gufeld Gambit – B31 – 1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.0-0 Bg7 5.c3 e5 6.d4
+Haag Gambit – B51 – 1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.0-0 Nc6 6.c3 Nf6 7.d4
+Nanu Gambit – B20 – 1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Qxd5 5.Nf3 e5 6.c4 Qe6 7.Bd3
+Ponomariov Gambit – B48 – 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Ndb5 Qb8 7.Be3 a6 8.Bb6
 Kasparov Gambit – B44 – 1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5
-Moscow Gambit – B51 – 1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.0-0 Bd7 5.c3 a6 6.Bxc6 Bxc6 7.Re1 Nf6 8.d4 Bxe4 9.Bg5[252]
-Basman-Palatnik Gambit – B50 – 1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 Nc6 5.d4 cxd4 6.cxd4 Nxe4[253]
-Basman-Palatnik Double Gambit – B50 – 1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 Nc6 5.d4 cxd4 6.cxd4 Nxe4 7.d5 Qa5+ 8.Nc3 Nxc3 9.bxc3[254]
-Perényi Gambit – B88 – 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.g4 e5 8.Nf5 g6 9.g5[255]
-Peresypkin's Sacrifice – B33 – 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.Bxb5[256]
+Moscow Gambit – B51 – 1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.0-0 Bd7 5.c3 a6 6.Bxc6 Bxc6 7.Re1 Nf6 8.d4 Bxe4 9.Bg5
+Basman-Palatnik Gambit – B50 – 1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 Nc6 5.d4 cxd4 6.cxd4 Nxe4
+Basman-Palatnik Double Gambit – B50 – 1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 Nc6 5.d4 cxd4 6.cxd4 Nxe4 7.d5 Qa5+ 8.Nc3 Nxc3 9.bxc3
+Perényi Gambit – B88 – 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.g4 e5 8.Nf5 g6 9.g5
+Peresypkin's Sacrifice – B33 – 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.Bxb5
 
 Vienna Game
-Vienna Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4[257]
-Vienna Gambit – C29 – 1.e4 e5 2.Nc3 Nf6 3.f4[258]
-Omaha Gambit – C25 – 1.e4 e5 2.Nc3 d6 3.f4[259]
-Zhuravlev Countergambit – C25 – 1.e4 e5 2.Nc3 Bb4 3.Qg4 Nf6[260]
-Steinitz Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4[261]
-Erben Gambit – C25 – 1.e4 e5 2.Nc3 Nf6 3.g3 d5 4.exd5 c6[262]
-Quelle Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 Bc5 4.fxe5 d6[263]
-Bronstein Gambit – C23 – 1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.f4 Nxe4 5.Nf3[264]
-Meitner-Mieses Gambit – C23 – 1.e4 e5 2.Nc3 Nc6 3.Bc4 Bc5 4.Qg4 Qf6 5.Nd5[265]
-Mariotti Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 h5 5.Nf3 h4[266]
-Hamppe-Allgaier Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.h4 g4 6.Ng5[267]
-Pierce Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4[268]
-Hamppe-Muzio Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 g4 6.0-0[269]
+Vienna Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4
+Vienna Gambit – C29 – 1.e4 e5 2.Nc3 Nf6 3.f4
+Omaha Gambit – C25 – 1.e4 e5 2.Nc3 d6 3.f4
+Zhuravlev Countergambit – C25 – 1.e4 e5 2.Nc3 Bb4 3.Qg4 Nf6
+Steinitz Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4
+Erben Gambit – C25 – 1.e4 e5 2.Nc3 Nf6 3.g3 d5 4.exd5 c6
+Quelle Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 Bc5 4.fxe5 d6
+Bronstein Gambit – C23 – 1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.f4 Nxe4 5.Nf3
+Meitner-Mieses Gambit – C23 – 1.e4 e5 2.Nc3 Nc6 3.Bc4 Bc5 4.Qg4 Qf6 5.Nd5
+Mariotti Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 h5 5.Nf3 h4
+Hamppe-Allgaier Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.h4 g4 6.Ng5
+Pierce Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4
+Hamppe-Muzio Gambit – C25 – 1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 g4 6.0-0
