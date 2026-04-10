@@ -5,6 +5,7 @@ stockfish/*
 
 # Outputs
 *.txt
+!opening_book_extra.txt
 
 # Compiled binaries
 /__pycache__/
