@@ -1,8 +1,8 @@
 package main
 
 import (
-	"sync"
 	"strings"
+	"sync"
 
 	"github.com/notnil/chess"
 )
@@ -135,29 +135,29 @@ func openingAndGambitDefs() []LineDef {
 	openingDefsOnce.Do(func() {
 		// Keep built-ins small and fast; extend via optional import file.
 		builtIn := []LineDef{
-		// Openings
-		{Key: "sicilian", Kind: KindOpening, NamePT: "Siciliana", NameEN: "Sicilian Defense", ECO: "B20", TagAtPly: 2, MovesUCI: []string{"e2e4", "c7c5"}},
-		{Key: "nimzo", Kind: KindOpening, NamePT: "Nimzo-Índia", NameEN: "Nimzo-Indian Defense", ECO: "E20", TagAtPly: 6, MovesUCI: []string{"d2d4", "g8f6", "c2c4", "e7e6", "b1c3", "f8b4"}},
+			// Openings
+			{Key: "sicilian", Kind: KindOpening, NamePT: "Siciliana", NameEN: "Sicilian Defense", ECO: "B20", TagAtPly: 2, MovesUCI: []string{"e2e4", "c7c5"}},
+			{Key: "nimzo", Kind: KindOpening, NamePT: "Nimzo-Índia", NameEN: "Nimzo-Indian Defense", ECO: "E20", TagAtPly: 6, MovesUCI: []string{"d2d4", "g8f6", "c2c4", "e7e6", "b1c3", "f8b4"}},
 
-		// Gambits (subset)
-		{Key: "queens-gambit", Kind: KindGambit, NamePT: "Gambito da Dama", NameEN: "Queen's Gambit", ECO: "D06", TagAtPly: 3, MovesUCI: []string{"d2d4", "d7d5", "c2c4"}},
-		{Key: "kings-gambit", Kind: KindGambit, NamePT: "Gambito do Rei", NameEN: "King's Gambit", ECO: "C30", TagAtPly: 3, MovesUCI: []string{"e2e4", "e7e5", "f2f4"}},
-		{Key: "kings-gambit-accepted", Kind: KindGambit, NamePT: "Gambito do Rei", NameEN: "King's Gambit", ECO: "C33", TagAtPly: 4, MovesUCI: []string{"e2e4", "e7e5", "f2f4", "e5f4"}},
-		{Key: "danish-gambit", Kind: KindGambit, NamePT: "Gambito Dinamarquês", NameEN: "Danish Gambit", ECO: "C21", TagAtPly: 3, MovesUCI: []string{"e2e4", "e7e5", "d2d4", "e5d4", "c2c3"}},
-		{Key: "smith-morra", Kind: KindGambit, NamePT: "Gambito Smith-Morra", NameEN: "Smith–Morra Gambit", ECO: "B21", TagAtPly: 3, MovesUCI: []string{"e2e4", "c7c5", "d2d4", "c5d4", "c2c3"}},
-		{Key: "wing-gambit-sicilian", Kind: KindGambit, NamePT: "Gambito Wing (Siciliana)", NameEN: "Wing Gambit", ECO: "B20", TagAtPly: 3, MovesUCI: []string{"e2e4", "c7c5", "b2b4"}},
-		{Key: "evans-gambit", Kind: KindGambit, NamePT: "Gambito Evans", NameEN: "Evans Gambit", ECO: "C51", TagAtPly: 7, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "b8c6", "f1c4", "f8c5", "b2b4"}},
-		{Key: "budapest", Kind: KindGambit, NamePT: "Gambito Budapest", NameEN: "Budapest Gambit", ECO: "A51", TagAtPly: 4, MovesUCI: []string{"d2d4", "g8f6", "c2c4", "e7e5"}},
-		{Key: "benko", Kind: KindGambit, NamePT: "Gambito Benko", NameEN: "Benko Gambit", ECO: "A57", TagAtPly: 6, MovesUCI: []string{"d2d4", "g8f6", "c2c4", "c7c5", "d4d5", "b7b5"}},
-		{Key: "blackmar-diemer", Kind: KindGambit, NamePT: "Gambito Blackmar–Diemer", NameEN: "Blackmar–Diemer Gambit", ECO: "D00", TagAtPly: 3, MovesUCI: []string{"d2d4", "d7d5", "e2e4"}},
-		{Key: "froms", Kind: KindGambit, NamePT: "Gambito de From", NameEN: "From's Gambit", ECO: "A02", TagAtPly: 2, MovesUCI: []string{"f2f4", "e7e5"}},
+			// Gambits (subset)
+			{Key: "queens-gambit", Kind: KindGambit, NamePT: "Gambito da Dama", NameEN: "Queen's Gambit", ECO: "D06", TagAtPly: 3, MovesUCI: []string{"d2d4", "d7d5", "c2c4"}},
+			{Key: "kings-gambit", Kind: KindGambit, NamePT: "Gambito do Rei", NameEN: "King's Gambit", ECO: "C30", TagAtPly: 3, MovesUCI: []string{"e2e4", "e7e5", "f2f4"}},
+			{Key: "kings-gambit-accepted", Kind: KindGambit, NamePT: "Gambito do Rei", NameEN: "King's Gambit", ECO: "C33", TagAtPly: 4, MovesUCI: []string{"e2e4", "e7e5", "f2f4", "e5f4"}},
+			{Key: "danish-gambit", Kind: KindGambit, NamePT: "Gambito Dinamarquês", NameEN: "Danish Gambit", ECO: "C21", TagAtPly: 3, MovesUCI: []string{"e2e4", "e7e5", "d2d4", "e5d4", "c2c3"}},
+			{Key: "smith-morra", Kind: KindGambit, NamePT: "Gambito Smith-Morra", NameEN: "Smith–Morra Gambit", ECO: "B21", TagAtPly: 3, MovesUCI: []string{"e2e4", "c7c5", "d2d4", "c5d4", "c2c3"}},
+			{Key: "wing-gambit-sicilian", Kind: KindGambit, NamePT: "Gambito Wing (Siciliana)", NameEN: "Wing Gambit", ECO: "B20", TagAtPly: 3, MovesUCI: []string{"e2e4", "c7c5", "b2b4"}},
+			{Key: "evans-gambit", Kind: KindGambit, NamePT: "Gambito Evans", NameEN: "Evans Gambit", ECO: "C51", TagAtPly: 7, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "b8c6", "f1c4", "f8c5", "b2b4"}},
+			{Key: "budapest", Kind: KindGambit, NamePT: "Gambito Budapest", NameEN: "Budapest Gambit", ECO: "A51", TagAtPly: 4, MovesUCI: []string{"d2d4", "g8f6", "c2c4", "e7e5"}},
+			{Key: "benko", Kind: KindGambit, NamePT: "Gambito Benko", NameEN: "Benko Gambit", ECO: "A57", TagAtPly: 6, MovesUCI: []string{"d2d4", "g8f6", "c2c4", "c7c5", "d4d5", "b7b5"}},
+			{Key: "blackmar-diemer", Kind: KindGambit, NamePT: "Gambito Blackmar–Diemer", NameEN: "Blackmar–Diemer Gambit", ECO: "D00", TagAtPly: 3, MovesUCI: []string{"d2d4", "d7d5", "e2e4"}},
+			{Key: "froms", Kind: KindGambit, NamePT: "Gambito de From", NameEN: "From's Gambit", ECO: "A02", TagAtPly: 2, MovesUCI: []string{"f2f4", "e7e5"}},
 
-		// Modern-ish / popular gambits (extra built-ins)
-		{Key: "stafford", Kind: KindGambit, NamePT: "Gambito Stafford", NameEN: "Stafford Gambit", ECO: "C42", TagAtPly: 6, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "g8f6", "f3e5", "b8c6"}},
-		{Key: "icelandic", Kind: KindGambit, NamePT: "Gambito Islandês", NameEN: "Icelandic Gambit", ECO: "B01", TagAtPly: 6, MovesUCI: []string{"e2e4", "d7d5", "e4d5", "g8f6", "c2c4", "e7e6"}},
-		{Key: "latvian", Kind: KindGambit, NamePT: "Gambito Letão", NameEN: "Latvian Gambit", ECO: "C40", TagAtPly: 4, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "f7f5"}},
-		{Key: "elephant", Kind: KindGambit, NamePT: "Gambito do Elefante", NameEN: "Elephant Gambit", ECO: "C40", TagAtPly: 4, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "d7d5"}},
-	}
+			// Modern-ish / popular gambits (extra built-ins)
+			{Key: "stafford", Kind: KindGambit, NamePT: "Gambito Stafford", NameEN: "Stafford Gambit", ECO: "C42", TagAtPly: 6, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "g8f6", "f3e5", "b8c6"}},
+			{Key: "icelandic", Kind: KindGambit, NamePT: "Gambito Islandês", NameEN: "Icelandic Gambit", ECO: "B01", TagAtPly: 6, MovesUCI: []string{"e2e4", "d7d5", "e4d5", "g8f6", "c2c4", "e7e6"}},
+			{Key: "latvian", Kind: KindGambit, NamePT: "Gambito Letão", NameEN: "Latvian Gambit", ECO: "C40", TagAtPly: 4, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "f7f5"}},
+			{Key: "elephant", Kind: KindGambit, NamePT: "Gambito do Elefante", NameEN: "Elephant Gambit", ECO: "C40", TagAtPly: 4, MovesUCI: []string{"e2e4", "e7e5", "g1f3", "d7d5"}},
+		}
 
 		extra := []LineDef(nil)
 		if defs, err := loadExternalBookDefs("opening_book_extra.txt"); err == nil {
