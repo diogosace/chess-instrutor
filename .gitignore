@@ -1,0 +1,14 @@
+# Stockfish
+stockfish/*
+/stockfish/
+*.tar
+
+# Outputs
+*.txt
+
+# Compiled binaries
+/__pycache__/
+
+# Local Go Modules
+go.sum
+go.mod
