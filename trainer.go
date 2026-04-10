@@ -55,10 +55,66 @@ func normalizarLance(move string) string {
 	if move == "" {
 		return move
 	}
+
+	// Preserve UCI inputs like "b2b3" (and normalize to lowercase).
+	if looksLikeUCI(move) {
+		return strings.ToLower(move)
+	}
+
+	// Normalize castling variants.
+	upper := strings.ToUpper(move)
+	upper = strings.ReplaceAll(upper, "0-0-0", "O-O-O")
+	upper = strings.ReplaceAll(upper, "0-0", "O-O")
+	if upper == "O-O" || upper == "O-O-O" {
+		return upper
+	}
+
+	// Only upper-case piece letters when the input is likely SAN.
+	// Important: don't turn pawn moves like "b3"/"bxa3" into "B3".
 	if strings.ContainsRune("rnbqk", rune(move[0])) {
+		if len(move) >= 2 {
+			// Pawn moves can start with a file letter, including 'b'.
+			// If it looks like a pawn move, keep as-is.
+			if move[0] == 'b' {
+				if (move[1] >= '1' && move[1] <= '8') || move[1] == 'x' {
+					return move
+				}
+			}
+		}
 		move = strings.ToUpper(move[:1]) + move[1:]
 	}
 	return move
+}
+
+func looksLikeUCI(s string) bool {
+	if len(s) != 4 && len(s) != 5 {
+		return false
+	}
+	s = strings.ToLower(strings.TrimSpace(s))
+	if len(s) < 4 {
+		return false
+	}
+	if s[0] < 'a' || s[0] > 'h' {
+		return false
+	}
+	if s[1] < '1' || s[1] > '8' {
+		return false
+	}
+	if s[2] < 'a' || s[2] > 'h' {
+		return false
+	}
+	if s[3] < '1' || s[3] > '8' {
+		return false
+	}
+	if len(s) == 5 {
+		switch s[4] {
+		case 'q', 'r', 'b', 'n':
+			return true
+		default:
+			return false
+		}
+	}
+	return true
 }
 
 func readLinePrompt(in *bufio.Reader, prompt string) (string, error) {
